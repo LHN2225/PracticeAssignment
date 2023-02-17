@@ -46,6 +46,6 @@ Le Hoang nhan
 
 #### Section 2 - 2
 
-![5-1](https://github.com/LHN2225/PracticeAssignment/blob/main/Result%20Postman%20Image/5-1.png)
-![5-2](https://github.com/LHN2225/PracticeAssignment/blob/main/Result%20Postman%20Image/5-2.png)
+![5-1](https://github.com/LHN2225/PracticeAssignment/blob/main/Result%20Postman%20Image/t5-1.png)
+![5-2](https://github.com/LHN2225/PracticeAssignment/blob/main/Result%20Postman%20Image/t5-2.png)
 
